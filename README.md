@@ -2,3 +2,4 @@
 campus
 event
 management
+system
